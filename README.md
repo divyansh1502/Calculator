@@ -17,7 +17,7 @@ This project demonstrates clean design, interactive functionality, and mobile-fr
 ## 🎥 Project Demo Video
 
 Watch the project demo here:  
-[Calculator Demo Video]([YOUR_VIDEO_LINK_HERE](https://youtu.be/mZtMr2bQ1ao))
+[Calculator Demo Video][((https://youtu.be/mZtMr2bQ1ao))](https://youtu.be/mZtMr2bQ1ao)
 
 ---
 
