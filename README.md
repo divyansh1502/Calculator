@@ -24,7 +24,7 @@ Watch the project demo here:
 ## 🌐 Live Deployment
 
 Check the live project here:  
-[Calculator Live Link](YOUR_DEPLOYMENT_LINK_HERE)
+[Calculator Live Link][(LIVE_DEMO)](https://divyansh1502.github.io/Calculator/)
 
 ---
 
